@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "677211696709",
+    "firebase_url": "https://control-iot-2ac54-default-rtdb.firebaseio.com",
+    "project_id": "control-iot-2ac54",
+    "storage_bucket": "control-iot-2ac54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677211696709:android:f9dc5d5f7227ffa9dbfd2c",
+        "android_client_info": {
+          "package_name": "com.example.apppiano"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr7K1t8OHdNq7vRlVr57OCmf11BUvYRu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
